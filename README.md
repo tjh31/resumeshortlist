@@ -64,9 +64,11 @@ A folder of sample_resumes have been provided for the user to test the streamlit
 Happy matching!
 
 ![image](https://github.com/tjh31/resumeshortlist/assets/64650488/7a8facc4-2404-4736-93ce-5f4cb72749a0)
-![image](https://github.com/tjh31/resumeshortlist/assets/64650488/5cb15499-2bea-4314-8a96-459b0e43171f)
 ![image](https://github.com/tjh31/resumeshortlist/assets/64650488/87a4e2a5-45fe-4d1a-9c66-d272751f98e0)
 ![image](https://github.com/tjh31/resumeshortlist/assets/64650488/0f1eb769-f648-4e59-be99-2a1afc7c25fd)
+
+![image](https://github.com/tjh31/resumeshortlist/assets/64650488/5cb15499-2bea-4314-8a96-459b0e43171f)
+
 
 
 
