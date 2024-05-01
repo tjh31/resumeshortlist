@@ -60,9 +60,6 @@ You can either run it by uploading resumes from your mobile phone or desktop fil
 
 This project uses pre-trained language models from the [Hugging Face Transformers](https://github.com/huggingface/transformers) library and other open-source libraries such as NLTK, scikit-learn, and Apache Tika.
 A folder of sample_resumes have been provided for the user to test the streamlit app. This was sourced from publicly available sample job resumes online.
-## Contact
-
-For any questions or feedback, feel free to contact [your name or handle] at [your email or other contact method].
 
 Happy matching!
 
